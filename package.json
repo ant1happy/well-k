@@ -1,0 +1,16 @@
+{
+  "name": "cheese",
+  "version": "0.0.1",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Devilzz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chalkk": "0.0.1-security",
+    "discord.js": "^12.1.1"
+  }
+}
